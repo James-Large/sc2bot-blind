@@ -6,7 +6,8 @@ SC2 was my goto competitive game for a while, going from bronze to high master i
 To start with, I'll be drawing heavily from sentdex's tutorial: https://www.youtube.com/watch?v=v3LJ6VvpfgI&list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq
 
 Other useful links:
-*The base blizzard api, maps, replays etc - https://github.com/Blizzard/s2client-proto
-*Deepmind's RL/SC2 package - https://github.com/deepmind/pysc2
-*Non-RL focused API package, used initially in sentdex videos - https://github.com/Dentosal/python-sc2
-*A podcast on starcraft AIs, mainly broodwar seemingly - https://makingcomputerdothings.com/
+* Text version of sentdex's tutorial - https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/
+* The base blizzard api, maps, replays etc - https://github.com/Blizzard/s2client-proto
+* Deepmind's RL/SC2 package - https://github.com/deepmind/pysc2
+* Non-RL focused API package, used initially in sentdex videos - https://github.com/Dentosal/python-sc2
+* A podcast on starcraft AIs, mainly broodwar seemingly - https://makingcomputerdothings.com/
